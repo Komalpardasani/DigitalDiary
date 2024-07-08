@@ -1,12 +1,12 @@
 {
-  "name": "ejs-challenge",
+  "name": "DigitalDiary",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "HR",
+  "author": "Komal",
   "license": "ISC",
   "engines": {
   "node": "14.18.1"
